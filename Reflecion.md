@@ -11,7 +11,7 @@ También reforcé mi comprensión sobre cómo estructurar endpoints de forma cla
 
 ## ¿Qué mejoraría?
 
-Si tuviera más tiempo y mas conocimientos, me gustaria mejorar lo siguiente:
+Si tuviera más tiempo, me gustaria mejorar lo siguiente:
 
 - Implementar autenticación con JWT y roles de usuario.
 - Escribir pruebas automatizadas (unitarias y de integración).
