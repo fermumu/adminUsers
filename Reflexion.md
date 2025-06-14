@@ -17,6 +17,7 @@ Si tuviera más tiempo, me gustaria mejorar lo siguiente:
 - Escribir pruebas automatizadas (unitarias y de integración).
 - Usar un entorno de despliegue para mostrar el proyecto online.
 - Mejorar la experiencia de usuario con una interfaz con React.
+- Mejorar la forma de documentar una API
 
 ## patrón de diseño o arquitectura
 
